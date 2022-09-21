@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @atchagnaou
+### Hi, I am Ahmed
+I work as a Data Engineer in France.
+
 - 👀 I’m interested in Data Analysis and AI
 - 📫 How to reach me ? ahmed.tc@pm.me
 
